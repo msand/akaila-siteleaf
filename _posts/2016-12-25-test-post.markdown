@@ -1,0 +1,6 @@
+---
+title: Test post
+date: 2016-12-25 19:03:00 Z
+---
+
+Tesing posts
